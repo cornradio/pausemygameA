@@ -10,7 +10,8 @@
 
 ### 使用方法
 
-1. 直接下载项目
+1. 直接下载项目 <img width="2391" height="1853" alt="image" src="https://github.com/user-attachments/assets/88c59dc9-2aac-46e1-8f00-e00820e5d98c" />
+
 2. 安装 AutoHotkey_1.1.37.02_setup.exe 
 3. 双击 PauseManager.ahk 启动暂停工具
 4. 快捷键 CTRL alt P 暂停游戏/程序
