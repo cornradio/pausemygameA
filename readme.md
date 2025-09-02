@@ -1,6 +1,6 @@
 ## pausemygame -- ahk 版本
 
-本项目是 [`pausemygame`](https://github.com/cornradio/pausemygame) 的 AutoHotkey (AHK) 版本，用于在特定情况下自动暂停游戏。
+本项目是 [`pausemygame`](https://github.com/cornradio/pausemygame) 的 AutoHotkey (AHK) 版本，可以暂停和恢复游戏。
 
 ### 功能简介
 
